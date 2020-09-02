@@ -1,5 +1,5 @@
 ##  Common predicates used by external Logicmoo Utils
-
+[![Build Status](https://travis-ci.org/TeamSPoon/logicmoo_utils.svg)](https://travis-ci.org/TeamSPoon/logicmoo_utils)
 
 ## Installation using SWI-Prolog 7.5.x or later (due to duplicate transitive deps failing in earlier versions):
 
