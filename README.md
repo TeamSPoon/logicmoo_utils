@@ -1,10 +1,14 @@
 ##  Common predicates used by external Logicmoo Utils
-[![Build Status](https://travis-ci.org/TeamSPoon/logicmoo_utils.svg)](https://travis-ci.org/TeamSPoon/logicmoo_utils)
+[![Build Status](https://travis-ci.org/TeamSPoon/logicmoo_utils.svg)](https://travis-ci.org/TeamSPoon/logicmoo_utils)default
+
+[![Build Status](https://travis-ci.org/TeamSPoon/logicmoo_utils.svg?branch=a43d038dceb713df7136da28c3af611c4c2d7523)](https://travis-ci.org/TeamSPoon/logicmoo_utils)a43d038dceb713df7136da28c3af611c4c2d7523
+
+
+[![Build Status](https://travis-ci.org/TeamSPoon/logicmoo_utils.svg?branch=master)](https://travis-ci.org/TeamSPoon/logicmoo_utils)master
 
 ## Installation using SWI-Prolog 7.5.x or later (due to duplicate transitive deps failing in earlier versions):
 
     `?- pack_install('https://github.com/TeamSPoon/logicmoo_utils.git'). `
-
 
 
 
